@@ -3,7 +3,7 @@
 A fast and intelligent Question & Answer chatbot built with **Python** and the **Groq API**. This project allows users to ask questions in natural language and receive AI-generated responses using Groq's ultra-fast LLM inference.
 
 ## 🚀 Features
-
+ 
 * ⚡ Powered by Groq API
 * 🧠 Natural Language Question Answering
 * 🐍 Built with Python
