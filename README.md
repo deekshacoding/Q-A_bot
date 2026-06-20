@@ -1,6 +1,6 @@
 # 🤖 Groq-Powered Q&A Bot
 
-A fast and intelligent Question & Answer chatbot built with **Python** and the **Groq API**. This project allows users to ask questions in natural language  and receive AI-generated responses using Groq's ultra-fast LLM inference.
+A fast and intelligent Question & Answer chatbot built with **Python** and the **Groq API**. This project allows users to ask questions in natural language  
 
 ## 🚀 Features
  
