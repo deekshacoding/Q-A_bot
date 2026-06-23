@@ -17,14 +17,11 @@ A fast and intelligent Question & Answer chatbot built with **Python** and the *
 ## 📂 Project Structure
 
 ```bash
-qa-bot/
-│
-├── app.py
-├── requirements.txt
-├── .env
-├── README.md
-└── utils/
-    └── helper.py
+chatbot.py
+
+chatbot_memory.py
+
+chatbot_stream.py
 ```
 
 ---
